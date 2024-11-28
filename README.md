@@ -1,7 +1,7 @@
 # Somali Translator
 
 Welcome to the Somali Translator! This is a full-stack application designed to translate text from English to Somali. The project aims to make Somali translation accessible, with planned features like voice detection and audio translation, similar to Google Translate.
-
+https://mohamedrabi0.github.io/somali/
 ## Features
 
 - **Text Translation**: Translate phrases and sentences from English to Somali.
