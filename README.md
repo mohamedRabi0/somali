@@ -1,56 +1,68 @@
-Somali Translator App 🌍📱
-A React-based full-stack application designed to translate English to Somali and vice versa. The app aims to provide real-time translations, including voice detection and speech-to-text features. This project is a step toward bridging language barriers with technology.
+# Somali Translator
 
-Features
-Text Translation: Translate between English and Somali instantly.
-Voice Detection: Real-time voice input to facilitate audio translations (planned feature).
-User-Friendly Interface: Clean and intuitive design for ease of use.
-API Integration: Connects to a custom-built backend API for robust and scalable translations.
-Installation
-Clone this repository:
-bash
-Copy code
-git clone <your-repository-link>
-Navigate to the project folder:
-bash
-Copy code
-cd somali-translator
-Install dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Backend Setup
-Ensure your Node.js backend is running to handle API requests.
+Welcome to the Somali Translator! This is a full-stack application designed to translate text from English to Somali. The project aims to make Somali translation accessible, with planned features like voice detection and audio translation, similar to Google Translate.
 
-Navigate to the backend folder:
-bash
-Copy code
-cd backend
-Install backend dependencies:
-bash
-Copy code
-npm install
-Start the backend server:
-bash
-Copy code
-npm run dev
-Usage
-Launch the app in your browser (default: http://localhost:3000).
-Select the input language and type or speak your text.
-View the translated output instantly.
-Planned Features
-Speech-to-Text Translation: Allow users to speak in one language and get text/audio output in another.
-Improved Translation Accuracy: Integration with advanced translation APIs.
-Mobile App: Extend functionality to mobile platforms.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+## Features
 
-Live Demo
-Somali Translator App (Replace with your live link once deployed)
+- **Text Translation**: Translate phrases and sentences from English to Somali.
+- **Voice Detection (Coming Soon)**: Speak directly into the app and get real-time translation.
+- **Audio Playback (Coming Soon)**: Hear translations spoken aloud to help with pronunciation.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express
+- **API**: REST API for translation services
+- **Styling**: CSS
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone [https://github.com/your-username/somali-translator.git](url)
+   cd somali-translator
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the Application**
+   ```bash
+   npm start
+   ```
+
+The app will be available at `http://localhost:3000`.
+
+## Usage
+
+- Navigate to the app.
+- Enter text in English to translate it to Somali.
+- Future versions will support voice input and audio playback of translations.
+
+## Project Structure
+
+```
+/
+|-- backend/          # Node.js server
+|-- public/           # Public assets
+|-- src/              # React frontend source code
+|   |-- components/   # Reusable UI components
+|   |-- services/     # API services
+|-- package.json
+|-- README.md
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Future Improvements
+
+- **Voice Detection**: Enable users to speak and get translations in real time.
+- **Audio Translation**: Play audio of the translated text for language learning support.
+
+## Contact
+
+For questions or feedback, please reach out to me at rabiwork7@gmail.com or open an issue in this repository.
