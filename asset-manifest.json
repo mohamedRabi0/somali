@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/somali/static/css/main.152c6332.css",
-    "main.js": "/somali/static/js/main.3b681d4b.js",
-    "static/js/453.e4cbd411.chunk.js": "/somali/static/js/453.e4cbd411.chunk.js",
+    "main.css": "/somali/static/css/main.00baa9b6.css",
+    "main.js": "/somali/static/js/main.5c28f927.js",
     "index.html": "/somali/index.html",
-    "main.152c6332.css.map": "/somali/static/css/main.152c6332.css.map",
-    "main.3b681d4b.js.map": "/somali/static/js/main.3b681d4b.js.map",
-    "453.e4cbd411.chunk.js.map": "/somali/static/js/453.e4cbd411.chunk.js.map"
+    "main.00baa9b6.css.map": "/somali/static/css/main.00baa9b6.css.map",
+    "main.5c28f927.js.map": "/somali/static/js/main.5c28f927.js.map"
   },
   "entrypoints": [
-    "static/css/main.152c6332.css",
-    "static/js/main.3b681d4b.js"
+    "static/css/main.00baa9b6.css",
+    "static/js/main.5c28f927.js"
   ]
 }
